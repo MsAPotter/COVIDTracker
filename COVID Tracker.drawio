@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-28T03:38:02.570Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="S9jNI5Nov74IBpu9yx_6" version="16.4.11" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-28T03:39:10.508Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="QxXBLnrap04PjjAgZpi3" version="16.4.11" type="github">
   <diagram id="yZWEoiKFTk_RE_lkLRRF" name="Page-1">
     <mxGraphModel dx="788" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,17 +49,14 @@
         <mxCell id="Aqwf1nDUhG2ANLDway5e-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="640" y="140" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Aqwf1nDUhG2ANLDway5e-27" value="Recovered" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="Aqwf1nDUhG2ANLDway5e-27" value="Deaths" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="660" y="140" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Aqwf1nDUhG2ANLDway5e-28" value="+2,000&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Coronavirus%20Cases%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dleft%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontSize%3D12%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22360%22%20y%3D%22100%22%20width%3D%22130%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="660" y="165" width="60" height="25" as="geometry" />
+          <mxGeometry x="660" y="167.5" width="60" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Aqwf1nDUhG2ANLDway5e-29" value="1.2M Total" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="660" y="190" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Aqwf1nDUhG2ANLDway5e-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.099;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=19;" edge="1" parent="1" source="Aqwf1nDUhG2ANLDway5e-26" target="Aqwf1nDUhG2ANLDway5e-26">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Aqwf1nDUhG2ANLDway5e-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;arcSize=5;" vertex="1" parent="1">
           <mxGeometry x="800" y="60" width="170" height="570" as="geometry" />
