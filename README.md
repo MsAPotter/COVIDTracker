@@ -2,5 +2,7 @@
 
 App that hits the https://disease.sh/ API and displays COVID data by country.
 
-# Run by...
-<npm start>
+## Run command
+npm start
+
+
