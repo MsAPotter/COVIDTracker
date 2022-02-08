@@ -6,6 +6,6 @@ App that hits the https://disease.sh/ API and displays COVID data by country. Ut
 npm start
 
 ## Tech Stack
-React, Material UI
+React, Material UI component styling
 
 
